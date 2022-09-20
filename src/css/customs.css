@@ -1,0 +1,39 @@
+.table{
+
+}
+.searchNew{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    margin-bottom: 50px;
+}
+.button{
+    width: 120px;
+    height: 20px;
+}
+.search{
+    margin-right: 10px;
+}
+.new{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 200px;
+}
+.body{
+    margin-left: 200px;
+    margin-right: 200px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+.newExport{
+    display: flex;
+    flex-direction: column;
+}
+.export{
+    /* display: flex; */
+    /* justify-content: right; */
+}
